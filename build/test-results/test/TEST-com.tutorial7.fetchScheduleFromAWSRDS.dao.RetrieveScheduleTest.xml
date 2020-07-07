@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tutorial7.fetchScheduleFromAWSRDS.dao.RetrieveScheduleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-07T14:55:48" hostname="Parths-MacBook-Air.local" time="1.701">
+  <properties/>
+  <testcase name="test()" classname="com.tutorial7.fetchScheduleFromAWSRDS.dao.RetrieveScheduleTest" time="1.701"/>
+  <system-out><![CDATA[jdbc:mysql://database-schedule.chvebgtwnaw8.us-east-1.rds.amazonaws.com:3306/Crew_RecordBone, Brian
+Schofield, Dawson
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
